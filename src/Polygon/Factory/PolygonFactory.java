@@ -17,7 +17,6 @@ public class PolygonFactory {
             case 8:
                 return new Octagon();
 
-
             default:
                 return null;
         }
